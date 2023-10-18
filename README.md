@@ -1,41 +1,23 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
+<img align='right' src='https://github.com/pawankgupta-se/pawankgupta-se/blob/main/octocat.gif' width='200"'>
+
+[![Twitter Badge](https://img.shields.io/badge/@pawankgupta__se-pawankgupta_se?style=flat-square&logo=x&logoColor=white&color=black&link=https://twitter.com/pawankgupta_se)](https://twitter.com/pawankgupta_se) [![Linkedin Badge](https://img.shields.io/badge/pawankgupta--se-pawankgupta_se?style=flat-square&logo=linkedin&logoColor=white&color=blue&link=https://www.linkedin.com/in/pawankgupta-se)](https://www.linkedin.com/in/pawankgupta-se/) [![Medium Badge](https://img.shields.io/badge/@pawankgupta.se-pawankgupta_se?style=flat-square&logo=medium&logoColor=white&labelColor=black&color=black&link=https://medium.com/@pawankgupta.se)](https://medium.com/@pawankgupta.se) [![Gmail Badge](https://img.shields.io/badge/pawankgupta.se@gmail.com-pawankgupta_se?style=flat-square&logo=gmail&logoColor=white&labelColor=red&color=red&link=mailto:pawankgupta.se@gmail.com)](mailto:pawankgupta.se@gmail.com)
+
+I am Pawan Gupta, #Programmer #TechEnthusiast #Blogger 
+
+
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=pawankgupta-se&hide=["issues"]&show_icons=true)
+
+
+# Stack overflow:
+<a href="https://stackoverflow.com/users/1319627/pawan-gupta"><img src="https://stackoverflow.com/users/flair/1319627.png?theme=dark" width="208" height="58" alt="Pawan Gupta at Stack Overflow, Q&amp;A professional and enthusiast programmer" title="Pawan Gupta at Stack Overflow, Q&amp;A professional and enthusiast programmer"></a>
+
+# Leetcode: 
+![Leetcode Stats](https://leetcard.jacoblin.cool/pawankgupta-se)
+
+# Articles:
+<a target="_blank" href="https://medium.com/@pawankgupta.se"><img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=@pawankgupta.se&limit=2"/></a>
+
 <!--
-
-
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-
-[![Twitter Badge](https://img.shields.io/badge/-@Harshkhatri24-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Harshkhatri24)](https://twitter.com/Harshkhatri24) [![Linkedin Badge](https://img.shields.io/badge/-harshkumarkhatri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/harshkumarkhatri/) [![Medium Badge](https://img.shields.io/badge/-@mailharshkhatri-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mailharshkhatri/)](https://medium.com/harsh-kumar-khatri)
-[![Gmail Badge](https://img.shields.io/badge/-mailharshkhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:mailharshkhatri@gmail.com)
-
-I am Harsh Kumar Khatri 😃. I am from Kota, Rajasthan and currently doing my B.Tech from Career Point University, Alniya 🏫. I love to explore and learn about new things.
-## 👯 Communities
-* DSC Lead.
-* Mentor at HackItShipIt(MLH), Hack for the people, HackinCodes.
-* Microsoft Student Learn Ambassador (MSP/MLSA).
-* Deeplearning.ai event ambassador.
-* Management Team Lead at Voice Of Code.
-* CSE Club at CPU.
-* CamPus Ambassador at Coding Ninja and Humanity Welfare Council.
-* Internshala Student Partner-16.
-## ⚡ Technologies
-Talk to me about:
-- Front-end development using **HTML, Javascript, CSS, Bootstrap**.
-- Backend development using **Flask, Django**.
-- Making for **Relational Database Management Systems**.
-- Robust full-stack system design implementation.
-- Desktop application development using **Flutter** (Still learning).
-- Mobile application development using **Flutter and Kotlin**.
-- Creating scalable cloud architecture using **AWS Cloud**.
-- Solving Data structure and algorithm questions in **Java and Python**.
-## Hello World!! 🤔
-- 💬 Ask me about anything an everything.
-- 📫 Read my blogs: [Harsh Blog](https://medium.com/harsh-kumar-khatri).
-- 🎯 Portfolio site: [Portfolio](https://harshkumarkhatri.github.io/Portfolio-Site/index.html).
-- 🔔 Subscribe:- [Harsh Kumar Khatri](https://www.youtube.com/channel/UCKNtMU9M559bmXxKoT6YeJw).
-- ⚡ Fun fact: Internet users blink less than usual.
-
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshkumarkhatri&hide=["issues"]&show_icons=true)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=harshkumarkhatri.harshkumarkhatri)
 -->
