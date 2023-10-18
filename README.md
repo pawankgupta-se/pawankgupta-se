@@ -7,7 +7,7 @@
 I am Pawan Gupta, #Programmer #TechEnthusiast #Blogger. Coding since 2005. Coded for almost all component of software development backend, frontend, mobile, CI/CD, automation testing and used veriety of languages starting from Visual Basic.
 
 
-### Skills:
+## Skills:
 ![Kotlin](https://img.shields.io/badge/Kotlin-pawankgupta_se?style=for-the-badge&logo=kotlin&logoColor=white&color=%237f52ff
 ) ![Android](https://img.shields.io/badge/Android-pawankgupta_se?style=for-the-badge&logo=Android&logoColor=white&color=%233ddc84
 ) ![JetPack Compose](https://img.shields.io/badge/JetPack%20Compose-pawankgupta_se?style=for-the-badge&logo=jetpackcompose&logoColor=white&color=%234285F4
@@ -15,19 +15,19 @@ I am Pawan Gupta, #Programmer #TechEnthusiast #Blogger. Coding since 2005. Coded
 ) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 
 
-### GitHub:
+## GitHub:
 ![Pawan's github stats](https://github-readme-stats.vercel.app/api?username=pawankgupta-se&hide=["issues"]&show_icons=true)
 
 
-### StackOverflow:
+## StackOverflow:
 <a href="https://stackoverflow.com/users/1319627/pawan-gupta"><img src="https://stackoverflow.com/users/flair/1319627.png?theme=dark" width="208" height="58" alt="Pawan Gupta at Stack Overflow, Q&amp;A professional and enthusiast programmer" title="Pawan Gupta at Stack Overflow, Q&amp;A professional and enthusiast programmer"></a>
 
 
-### Leetcode: 
+## Leetcode: 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/pawankgupta-se)
 
 
-### Articles:
+## Articles:
 <a target="_blank" href="https://medium.com/@pawankgupta.se"><img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=@pawankgupta.se&limit=2"/></a>
 
 ---
