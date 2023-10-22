@@ -25,14 +25,12 @@ I am Pawan Gupta, #Programmer #TechEnthusiast #Blogger. Coding since 2005. Coded
 ![Pawan's github stats](https://github-readme-stats.vercel.app/api?username=pawankgupta-se&hide=["issues"]&show_icons=true)
 -->
 
+## Leetcode: 
+![Leetcode Stats](https://leetcard.jacoblin.cool/pawankgupta-se)
 
 
 ## StackOverflow:
 <a href="https://stackoverflow.com/users/1319627/pawan-gupta"><img src="https://stackoverflow.com/users/flair/1319627.png?theme=dark" width="208" height="58" alt="Pawan Gupta at Stack Overflow, Q&amp;A professional and enthusiast programmer" title="Pawan Gupta at Stack Overflow, Q&amp;A professional and enthusiast programmer"></a>
-
-
-## Leetcode: 
-![Leetcode Stats](https://leetcard.jacoblin.cool/pawankgupta-se)
 
 
 ## Articles:
