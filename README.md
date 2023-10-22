@@ -16,7 +16,15 @@ I am Pawan Gupta, #Programmer #TechEnthusiast #Blogger. Coding since 2005. Coded
 
 
 ## GitHub:
+![card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pawankgupta-se&theme=github)
+![card](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pawankgupta-se&theme=github)
+![card](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pawankgupta-se&theme=github)
+![card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pawankgupta-se&theme=github)
+
+<!--
 ![Pawan's github stats](https://github-readme-stats.vercel.app/api?username=pawankgupta-se&hide=["issues"]&show_icons=true)
+-->
+
 
 
 ## StackOverflow:
