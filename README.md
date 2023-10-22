@@ -1,10 +1,10 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! :wave: </h2>
 
 <img align='right' src='https://github.com/pawankgupta-se/pawankgupta-se/blob/main/octocat.gif' width='100"'>
 
 [![Twitter Badge](https://img.shields.io/badge/@pawankgupta__se-pawankgupta_se?style=flat-square&logo=x&logoColor=white&color=black&link=https://twitter.com/pawankgupta_se)](https://twitter.com/pawankgupta_se) [![Linkedin Badge](https://img.shields.io/badge/pawankgupta--se-pawankgupta_se?style=flat-square&logo=linkedin&logoColor=white&color=blue&link=https://www.linkedin.com/in/pawankgupta-se)](https://www.linkedin.com/in/pawankgupta-se/) [![Medium Badge](https://img.shields.io/badge/@pawankgupta.se-pawankgupta_se?style=flat-square&logo=medium&logoColor=white&labelColor=black&color=black&link=https://medium.com/@pawankgupta.se)](https://medium.com/@pawankgupta.se) [![Gmail Badge](https://img.shields.io/badge/pawankgupta.se@gmail.com-pawankgupta_se?style=flat-square&logo=gmail&logoColor=white&labelColor=red&color=red&link=mailto:pawankgupta.se@gmail.com)](mailto:pawankgupta.se@gmail.com)
 
-I am Pawan Gupta, #Programmer #TechEnthusiast #Blogger. Coding since 2005. Coded for almost all component of software development backend, frontend, mobile, CI/CD, automation testing and used veriety of languages starting from Visual Basic.
+I am Pawan Gupta, #Programmer #TechEnthusiast #Blogger. Coding since 2005. Coded for almost all component of software development backend, frontend, mobile, CI/CD, automation testing and used veriety of languages starting from Visual Basic. I'm here on GitHub to collaborate on thrilling projects. Let's code and create something truely awesome together! :computer: :sunglasses:
 
 
 ## Skills:
